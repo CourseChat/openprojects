@@ -8,8 +8,8 @@ Use friction calculation for 1 1/4 " pipe at 25 gpm: 11 feet per 100 ft
 
 ## Static head calculation
 
-- Pump intake is on bottom of Lake Tahoe, at an elevation of 6330?, or 20 feet below surface
-- June 2024 lake level is high
+- Pump intake is on bottom of Lake Tahoe, at an elevation of 6210'. Lake Tahoe Low Water Level is 6223', and the high water line is 6229.1'. The base of the pump house is at 6230, so the pipe rise is 20 feet, and at today's high lake level, the pump is 20' below surface.
+- June 2024 lake level is high, at 6228.
 
 1. Calculate the total static head (TSH):
     - TSH is the vertical distance the water needs to be lifted. In your case, it's 40 feet.
