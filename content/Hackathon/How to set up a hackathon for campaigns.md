@@ -3,7 +3,7 @@
 - 0.5 x participants = nu
 [Go somewhere](http://mathchat.xyz)
 
-[Home](./index.md)
+[Home](content/index.md)
 - My published page should be : https://CourseChat.github.io/openprojects
 - Did it work?
 ### Fill the venue with gigabit WiFi
