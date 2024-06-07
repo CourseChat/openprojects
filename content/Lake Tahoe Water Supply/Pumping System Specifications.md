@@ -1,3 +1,5 @@
+[[Hoffman Plumbing]] has specified [[McDonald]] pumps
+
 To determine the right size pump for your system, you'll need to calculate the total dynamic head (TDH) and use that information to select a pump that can efficiently deliver the required flow rate (25 gallons per minute) at the calculated TDH. Follow these steps:
 
 Use friction calculation for 1 1/4 " pipe at 25 gpm: 11 feet per 100 ft
