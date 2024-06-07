@@ -1,6 +1,7 @@
 
 - note HDMI 
-Janine 
+Janine Abrams McLean
+Atlanta
 
 Live Sentiment Analysis
 
