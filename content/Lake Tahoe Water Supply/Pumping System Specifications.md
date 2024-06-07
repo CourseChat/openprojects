@@ -1,4 +1,4 @@
-#### Service
+## Service
 - Water is supplied to three structures:
 	- 1620 Sequoia main house: 3bd, 3 bath
 		- when occupied: 120 gal/day
@@ -13,8 +13,13 @@
 		- rise: 40 feet
 	- To 1590 1/2: 100 feet beyond main house
 		- rise from main house interconnect: 20 feet
-
-#### Estimates to replace existing system
+## Existing system
+- Installed in 1950's to feed original house at 1590 Sequoia
+- Unknown water systems served original house since its construction in 1916.
+- Rebuilt when 1620 Sequoia was constructed in 1979
+- Possible renovations after July, 1988, when Marston occupied and rebuilt 1590 Sequoia
+- Pump controller replaced by Marston after 1990
+### Estimates to replace existing system
 
 [[Hoffman Plumbing]] has specified [[McDonald]] pumps
 
