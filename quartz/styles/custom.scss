@@ -9,17 +9,17 @@ table {
     width: 100%;
   }
 th, td {
-    border: 1px solid #08f10c;
+    border: 1px solid #f507e1;
     padding: 8px;
   }
 th {
-    border-bottom: 4px solid #5a3bf4;  /* Thicker bottom border for headers */
+    border-bottom: 4px solid #ed06f5;  /* Thicker bottom border for headers */
   }
 tr:nth-child(even) {
     background-color: #f7e308;  /* Alternate row colors */
   }
 tr:nth-child(odd) {
-    background-color: #06c4f8;  /* Alternate row colors */
+    background-color: #64f404;  /* Alternate row colors */
   }
 
 table {
