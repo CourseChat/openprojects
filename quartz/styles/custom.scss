@@ -1,3 +1,43 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// 2024-08-29
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+th, td {
+    border: 1px solid #08f10c;
+    padding: 8px;
+  }
+th {
+    border-bottom: 4px solid #5a3bf4;  /* Thicker bottom border for headers */
+  }
+tr:nth-child(even) {
+    background-color: #f7e308;  /* Alternate row colors */
+  }
+
+table {
+    width: 1200px; /* Adjust this value as needed */
+    max-width: none;
+    table-layout: fixed;
+    overflow-x: auto;
+    display: block;
+  }
+/* Specific width for the first column */
+th:first-child,
+td:first-child {
+    width: 60px; /* 30% of 1200px */
+  }
+/* Specific width for the 10th column in 11-column tables */
+table:has(th:nth-child(11)) th:nth-child(10),
+table:has(td:nth-child(11)) td:nth-child(10) {
+    width: 300px; /* 15% of 1200px */
+  }
+/* Specific width for the 5th column in 11-column tables */
+table:has(th:nth-child(11)) th:nth-child(5),
+table:has(td:nth-child(11)) td:nth-child(5) {
+    width: 120px; /* 15% of 1200px */
+  }
