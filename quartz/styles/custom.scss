@@ -18,6 +18,9 @@ th {
 tr:nth-child(even) {
     background-color: #f7e308;  /* Alternate row colors */
   }
+tr:nth-child(odd) {
+    background-color: #06c4f8;  /* Alternate row colors */
+  }
 
 table {
     width: 1200px; /* Adjust this value as needed */
