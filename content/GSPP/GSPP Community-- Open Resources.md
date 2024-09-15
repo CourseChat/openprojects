@@ -8,4 +8,6 @@ We're developing a network of resources built by  the research and practice of o
 - Here's the list of speakers
 - Here's the agenda
 - Here are transcriptions of the sessions on Artificial Intelligence
+	- [[Benefits of AI in the Public Sector]]
+	- [[AI and National Security]]
 - Here are participant comments on specific research topics
