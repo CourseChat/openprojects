@@ -11,3 +11,8 @@ We're developing a network of resources built by  the research and practice of o
 	- [[Benefits of AI in the Public Sector]]
 	- [[AI and National Security]]
 - Here are participant comments on specific research topics
+---
+## [Relevant courses accessible for audit](Classes-Fall-2024-Goldman.md)
+
+
+![[Classes-Fall-2024]]
