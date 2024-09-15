@@ -1,0 +1,54 @@
+- Effficiency
+- Decision-making
+- Accessibility
+- Examples
+	- Michigan: MiWAM: developed with ??? : machine learning : UIA 
+	- false positives: high; 
+- Risks: Privacy; Security; Safety; Social; Ethical
+- OECD AI Principles: US signatory: 2022
+	- transparency
+	- is it operating as designed? False positives? 
+- AI Governance: focus on generative
+	- OSTP
+	- National AI Training Act
+	- EO14110
+- AI Governance: CA
+	- EO-N-12-23
+	- SB-1047: frontier models
+		- controversial; risk assessment? done somehow.
+	- EO-24-01: Washington
+	- Automated Decision Systems
+	- Youtube discussion: 
+- Risk Mitigation strategies
+	- how to operationalize: UC implementation: 
+		- do we need to use AI?
+		- Bias detction
+		- Continuous monitoring and no-go:periodic re-evaluation
+		- laws to comply with: GDPR; CCPA
+- examples
+	- Tenant Screening Vilations: renter screenng; Lauren Kirchner; Matthew Goldstein NYT: Oregon rental query: tenant screening industry: $1 billion 
+	- decisions made by system; 
+	- WA: 
+	- Amnsterdam city sidewalk upgrades; GoogleStreetview; AI playbook
+- Projects
+	- spatial analysis for infrastructure planning and improvement
+	- traffic flow; 
+	- building codes
+- 90,000 government entities: ?????
+	- many more
+- Department of Commerce: leading the charge?????:
+	- AI and Open Government Working Group
+	- 100 Chief AI Officer
+	- GSA has a job description
+- Municipalities: AI Registers--
+	- Helsinki
+	- Amsterdam
+	- San Jose
+	- Stanford case study on city council effort to create a register
+- Congress
+	- House Admin; Flash Report
+	- Library of Congress
+	- GPO
+	- legislation trackers
+- Berkeley Tech Policy Fellowship: 25: UNESCO, White House; citrispolicylb.org/2425pf
+- 
