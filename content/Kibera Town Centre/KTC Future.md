@@ -7,4 +7,58 @@
 	- Raj Shah KTC visit in 2018? 
 		- 30% self--sufficient
 		- Gates foundation meeting ?2011
+## Board Members
+- 1
+- 2
+- 3 Tom:
+	- Corporate history
+	- NGO characterization: 
+		- assumption of free;
+	- CN: to T: progress till Covid ?
+	- 
+- 4 : Kristina
+	- time poverty
+	- single-source:
+	- Canadian program : 2020: Harvard Business School; Johns Hopkins
+		- meals for selected families
+		- laundry services
+		- 
+- 5 : DK
+	- Ruto has lost Kikuyu
+- 6
+## Relationships to funding sources
+- different perspective on "business plan" generation
+	- 30 plans by KTC staff
+## Presentation of Revenue and usage statistics
+- Kibera population is 250,000; not 1MM
+- KTC daily person count is ~100, not 1,000
+	- count how many participate in classes
+		- charge student for class now?
+		- how much?
+		- 
+	- training
+	- 
+- global slum is 2.5 BB
+- potential move outside
+- DK: present ratio of costs to KTC customer
+- What business or area ?
+- DK: agressive on grants: 
+	- UNDP analysis of grant???
+	- ask DK for details
+	- examine MacArtur grant documents from DK
+- CN; body count daily needed: 2,500
+	- "has moved to 800 per day"
+	- "Issue shares to community"
+	- user-owned asset
+	- they will own it
+	- must work on added value
+	- shares in a corporation
+	- two members of US board: 
+	- SHOFCO progress
+	- crew said to do football event; crew said to do satellite
+		- water program
+	- ? lost something to SHOFCO paying $5 month....???
+	- "Costs have not gone up for 10 years"
+	- Power costs
+	- fluoride costs
 	- 
