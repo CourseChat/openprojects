@@ -1,5 +1,8 @@
 Edit this vault: openprojects
 
+It is tied to a github account named coursechat; :
+https://coursechat.github.io/openprojects/
+
 then, in a terminal, go to the openprojects vault; 
 
 /Users/johngage/Projects/Quartz/openprojects
@@ -13,3 +16,7 @@ and the GSPP
 
 execute: 
 npx quartz sync
+
+Then see the result at: 
+
+https://coursechat.github.io/openprojects/

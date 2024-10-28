@@ -7,6 +7,7 @@ title: Projects in Open Collaboration
 	- Water for All
 	- Humanitarian NGO List-2024
 
+[Water Harvesting](obsidian://open?vault=openprojects&file=content%2FWater%20Harvesting%2FOmar%20Yaghi)
 
 To create other instances: 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
