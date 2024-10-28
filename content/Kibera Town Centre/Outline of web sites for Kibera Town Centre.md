@@ -1,0 +1,19 @@
+- Chronological sequence, year by year, of parallel tracks: 
+	- architectural planning of site;
+	- modification of waste water treatment design
+		- Norm's original design of block construction
+		- shift to poured concrete: see interview with [[David Warner]]; 
+		- interview with [[Norm ]]; [[Questa]]; [[Matt Woll]]
+		- 
+	- political planning of KTC Ownership: evolution
+	- creation of KTC Organizing Committee
+	- training of KTC Associates
+	- construction
+		- learning to work with Kibera workforce
+		- imposing requirement on Kenyan contractor for workforce
+		- Kenyan vs US building codes, practices
+			- Concrete forms with measurement precision for 30-meter vertical elevation
+			- foundation preparation
+			- forms
+			- tank design; gravity flow
+			- 
