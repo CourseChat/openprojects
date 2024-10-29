@@ -1,3 +1,9 @@
+---
+draft: true
+---
+
+Sized to match North Lake Tahoe Fire requirements for size of letters: 4 inches
+
 Ordered from Smart Sign
 
 ---

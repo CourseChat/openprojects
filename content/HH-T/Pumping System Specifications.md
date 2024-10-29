@@ -1,3 +1,9 @@
+---
+draft: true
+---
+
+
+
 ## Service
 - Water is supplied to three structures:
 	- 1620 Sequoia main house: 3bd, 3 bath
