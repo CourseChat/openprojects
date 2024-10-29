@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Project Collaboration",
+    pageTitle: "🪴 Project Collaborations",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian","content/HH-T"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
