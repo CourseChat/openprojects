@@ -4,8 +4,8 @@ tags:
   - water
 ---
 ## Description
-- This is an list of open project to aid collaboration in design and implementation.  
-- Some projects since 2010 are self-sustaining and complete; most are in process; some, by design, are aspirational. 
+- This is an list of open projects, open in the sense that their purpose is defined, but their implementation is constantly evolving. All share one common goal: to support collaboration in design and implementation.  
+- 
 - Several of the links are to projects to annotate 
 ## Links to projects
 	- Water for All
