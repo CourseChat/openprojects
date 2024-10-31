@@ -1,24 +1,23 @@
 # Create open access to UC Berkeley classes
+- Create [[Berkeley Open Courseware]]
 ## Berkeley Brilliance Lectures
 - [L&S 110](https://curricularconnections.berkeley.edu/ls110/)
-- Sponsored Guest works: https://kaltura.berkeley.edu/channel/Brilliance+of+Berkeley+%28Spring+2024%29/329850612
+- Sponsored Guest status may be required for many classes:
+-  https://kaltura.berkeley.edu/channel/Brilliance+of+Berkeley+%28Spring+2024%29/329850612
+- We should open thousands of courses to general access; as with MIT Open Courseware, this will require annotation of many classes with accompanying computational and textual resources, which requires careful attention to intellectual property and proper licensing.
 
 ---
-RTL 
+## RTL : Repository of 20,000 classes = 100,000 hours of lectures
 - https://rtl.berkeley.edu/ai-teaching-learning
 
 ---
 Provost's committee 
 
-![[Provost's Advisory Council on Artificial Intelligence]]
-
-
 - Executive Vice Chancellor: [[Provost's Advisory Council on Artificial Intelligence]]
 	- https://evcp.berkeley.edu/initiatives/provosts-advisory-council-artificial-intelligence-pac-ai
 ---
-## example video lecture: 
+## Spring 2024: 14 video lectures: 
 
-Spring, 2024: 14 lectures
 
 ---
 [14 Lectures](https://kaltura.berkeley.edu/channel/Brilliance+of+Berkeley+%28Spring+2024%29/329850612#contentWrap)
@@ -44,3 +43,7 @@ Spring, 2024: 14 lectures
 - [![Thumbnail for Dacher Keltner, Markita del Carpio Landry - LS 110 (Spring 2024): Brilliance of Berkeley](https://cfvod.kaltura.com/p/2640881/sp/264088100/thumbnail/entry_id/1_7m59vsak/version/100011/width/478/height/269/width/478/height/269/type/3/quality/100)](https://kaltura.berkeley.edu/media/Dacher+Keltner%2C+Markita+del+Carpio+Landry+-+LS+110+%28Spring+2024%29%3A+Brilliance+of+Berkeley/1_7m59vsak/329850612)
     
 - [![Thumbnail for Randy Schekman, Matthew Walker - LS 110 (Spring 2024): Brilliance of Berkeley](https://cfvod.kaltura.com/p/2640881/sp/264088100/thumbnail/entry_id/1_duju3337/version/100011/width/478/height/269/width/478/height/269/type/3/quality/100)](https://kaltura.berkeley.edu/media/Randy+Schekman%2C+Matthew+Walker+-+LS+110+%28Spring+2024%29%3A+Brilliance+of+Berkeley/1_duju3337/329850612)
+
+---
+
+![[Provost's Advisory Council on Artificial Intelligence]]
