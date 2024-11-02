@@ -1,4 +1,5 @@
 # Lecture series for a general public
+run 1
 - This note explores how to build an attractive and continuing program of access to the wealth of Berkeley lectures and courses in a theatrical, large-screen presentation space such as Rialto's Elmwood and El Cerrito theaters.
 - We propose trials of several packages of combinations of lectures and personal presentations. We seek to answer a simple question: **can we fill a theater during the day with interested attendees: students, auditors, and general public?** 
 
@@ -13,6 +14,7 @@
 - The **Haas Dean's Speaker Series**, the **Berkeley Graduate Lectures**, **Basic Science Lights the Way**, **Science At Cal**, **Berkeley Lecture Series Engaging the Iranian Community** are all available to stream for a general audience
 - **Academic Earth** streams a series of lectures, but currently only for those with access to the campus **CalNet** network, which is to say, only accessible to students, faculty and staff.  However, to access CalNet, there is a special category, **Sponsored Guest**, available to auditors and outside researchers, that can be awarded by any faculty or staff member, and thus has potential access to **Academic Earth**, and to any class, with instructor permission.
 ---
+%%
 ## Berkeley Events
 [Berkeley Events](https://events.berkeley.edu/?view=facilities)
 - [Berkeley Daily Events](https://events.berkeley.edu/events/)
@@ -99,7 +101,7 @@ This event is the first live version of our popular Basic Science Lights the Way
  
 ---
 
-
+%%
 ### Berkeley Center for Ocean Futures
 - https://nature.berkeley.edu/ocean_futures
 - 
@@ -107,14 +109,10 @@ This event is the first live version of our popular Basic Science Lights the Way
 - [Dr. Kamran Matin](https://www.youtube.com/user/BLectureSeries)
 
 ### Other Centers: AI, Data Science, Mathematics, Physics, Engineering, Computing, Information Sciences
-- BAIR
-- BIDS
+- [BAIR](https://bair.berkeley.edu/)
+- [BIDS](https://bids.berkeley.edu/)
+- 
 - 
 
 ## ESPM Lecture Series
-- Rachel Carson
-- Speakers: 
-- Kelly Redfearn Kinder  : 2024-10-31 ; bad sound on Zoom ; no microphone;
-[kredfearnk@berkeley.edu](mailto:kredfearnk@berkeley.edu) is the coordinator
-
-- 
+-
