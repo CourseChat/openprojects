@@ -1,3 +1,0 @@
-- Web site
-- YouTube Channel
-- 

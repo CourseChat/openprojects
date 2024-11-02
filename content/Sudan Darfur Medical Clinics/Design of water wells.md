@@ -1,7 +1,0 @@
-- Power
-	- PV
-	- Geothermal
-- Distribution systems
-- Hydrology of well aquifers
-	- North Darfur
-	- El Fasher

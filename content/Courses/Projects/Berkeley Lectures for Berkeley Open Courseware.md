@@ -1,14 +1,3 @@
----
-title: "Berkeley Lectures for Berkeley Open Courseware"
-tags: [lectures, berkeley, events]
----
-%% This file was tuned to display iframes; when Quartz processes it for localhost, several iframes work, several do not. 
-Now renamed branch from v4 to main; tried to deploy with npx .....build; no sign it hit github. 
-%%
-
-
-
-
 # Lecture series for a general public
 run 1
 - This note explores how to build an attractive and continuing program of access to the wealth of Berkeley lectures and courses in a theatrical, large-screen presentation space such as Rialto's Elmwood and El Cerrito theaters.
@@ -28,109 +17,67 @@ run 1
 %%
 ## Berkeley Events
 [Berkeley Events](https://events.berkeley.edu/?view=facilities)
+- [Berkeley Daily Events](https://events.berkeley.edu/events/)
 
-
-[Berkeley Daily Events](https://events.berkeley.edu/events/)
-
-  
-
-<div class="external-embed">
-  <iframe width="800" height="400" src="https://events.berkeley.edu/?view=facilities"></iframe>
-</div>
-
-
-
-
-
-> [!info] General Lecture Series
-
-
+<iframe width="800"
+  height="400"  src="https://events.berkeley.edu/?view=facilities"></iframe>
 
 ---
-> [!info] The OLLI website might not stream its content here
+## General Lecture Series
+
+---
+
 ### OLLI speaker series and Town Halls, by the Osher Life Long Learning Institute:
 ### Courses and lectures  on general topics presented on YouTube in a Zoom format, or given in off-campus theatrical venues such as Freight and Salvage
-
-![Osher Life Long Learning InstituteI](https://olli.berkeley.edu/speaker-series-town-halls)
-
 - 100 courses and dozens of Town Halls,  created for OLLI: presented by speakers from many backgrounds.
 
 [Osher Life Long Learning InstituteI](https://olli.berkeley.edu/speaker-series-town-halls)
 
-<div class="external-embed">
 <iframe width="800"
   height="400"  src="https://olli.berkeley.edu/speaker-series-town-halls"></iframe>
- </div>
-  
-
 
 ---
 
 ### Berkeley Graduate Lectures
 - [Lectures since 2004](https://gradlectures.berkeley.edu/lecture/)
-
-
 - Example: October, 2024: [Bill McKibben-2024](https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/)
-
-
-
-
--
-<div class="external-embed">
-<iframe width="800"
-  height="600"  src="https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/"></iframe>
- </div>
-
-
-
+-  <iframe width="800"
+  height="400"  src="https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/"></iframe>
+---
 ### Berkeley Brilliance
-- taught in Spring 2024
-
-[[Berkeley Brilliance]]
-
-[Overview of all lecturers for Berkeley Brilliance](https://curricularconnections.berkeley.edu/ls110/)
+- Spring 2024
+[https://curricularconnections.berkeley.edu/ls110/](https://curricularconnections.berkeley.edu/ls110/)
 - not offered in Fall 2024
 - Spring 2025
 	- May be offered
 <iframe width="800"
   height="400"  src="https://curricularconnections.berkeley.edu/ls110/"></iframe>
 ---
-
 ### Basic Science Lights the Way
-> [!info] The Basic Science website might not stream its content here
+
 This event is the first live version of our popular Basic Science Lights the Way series — virtual conversations on current, cutting-edge research happening at UC Berkeley.
 
 [Science lights the way](https://www.youtube.com/watch?v=b8JTOlxJ_DE)
 <iframe width="800"
   height="400"  src="https://basicscience.berkeley.edu/"></iframe>
-
-
+---
 ### Science At Cal
 [Science at Cal](https://scienceatcal.berkeley.edu/lectureseries/)
 <iframe width="800"
   height="400"  src="https://scienceatcal.berkeley.edu/lectureseries"></iframe>
-
-
-
-
+---
 ## Theatrical and Film Series
 
-
+---
 
 ### BAMPFA
 - Symposia on specific film makers
 - [Example: Sergei Parajanov Seminar](https://events.berkeley.edu/events/event/271501-sergei-parajanov-symposium)
-
 <iframe width="800"
   height="400"  src="https://events.berkeley.edu/events/event/271501-sergei-parajanov-symposium"></iframe>
-
 ---
-
-
-### Cal Performances
+### Cal Arts and Performances
 ---
-
-
 ## Academic Lectures
 
 ---
@@ -143,33 +90,21 @@ This event is the first live version of our popular Basic Science Lights the Way
 <iframe width="800"
   height="400"  src="https://academicearth.org/universities/berkeley/"></iframe>
   
-> [!info]  Lecture series from Schools and Departments
-> Haas Business School; 
-> College of Letters and Science
-
+## Lecture series from Schools and Departments
 ---
 
 ### Haas Dean's Speaker Series
- > [!info] The Haas Dean's Speaker Series website might not stream its content here
- 
  
  [Haas Dean's Speaker Series](https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/)
- 
-
-
-<div class="external-embed">
 <iframe width="800"
   height="400"  src="https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/"></iframe>
-   </div>
  
-
 ---
 
 %%
 ### Berkeley Center for Ocean Futures
 - https://nature.berkeley.edu/ocean_futures
-
-
+- 
 ### Berkeley Lecture Series Engaging the Iranian Community
 - [Dr. Kamran Matin](https://www.youtube.com/user/BLectureSeries)
 
