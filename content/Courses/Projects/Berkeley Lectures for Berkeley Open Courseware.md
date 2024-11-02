@@ -17,6 +17,8 @@
 [Berkeley Events](https://events.berkeley.edu/?view=facilities)
 - [Berkeley Daily Events](https://events.berkeley.edu/events/)
 
+<iframe width="800"
+  height="400"  src="https://events.berkeley.edu/?view=facilities"></iframe>
 
 ---
 ## General Lecture Series
@@ -29,12 +31,16 @@
 
 [Osher Life Long Learning InstituteI](https://olli.berkeley.edu/speaker-series-town-halls)
 
+<iframe width="800"
+  height="400"  src="https://olli.berkeley.edu/speaker-series-town-halls"></iframe>
+
 ---
 
 ### Berkeley Graduate Lectures
 - [Lectures since 2004](https://gradlectures.berkeley.edu/lecture/)
 - Example: October, 2024: [Bill McKibben-2024](https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/)
-- 
+-  <iframe width="800"
+  height="400"  src="https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/"></iframe>
 ---
 ### Berkeley Brilliance
 - Spring 2024
@@ -42,18 +48,21 @@
 - not offered in Fall 2024
 - Spring 2025
 	- May be offered
-
+<iframe width="800"
+  height="400"  src="https://curricularconnections.berkeley.edu/ls110/"></iframe>
 ---
 ### Basic Science Lights the Way
 
 This event is the first live version of our popular Basic Science Lights the Way series — virtual conversations on current, cutting-edge research happening at UC Berkeley.
 
 [Science lights the way](https://www.youtube.com/watch?v=b8JTOlxJ_DE)
-
+<iframe width="800"
+  height="400"  src="https://basicscience.berkeley.edu/"></iframe>
 ---
 ### Science At Cal
 [Science at Cal](https://scienceatcal.berkeley.edu/lectureseries/)
-
+<iframe width="800"
+  height="400"  src="https://scienceatcal.berkeley.edu/lectureseries"></iframe>
 ---
 ## Theatrical and Film Series
 
@@ -62,6 +71,8 @@ This event is the first live version of our popular Basic Science Lights the Way
 ### BAMPFA
 - Symposia on specific film makers
 - [Example: Sergei Parajanov Seminar](https://events.berkeley.edu/events/event/271501-sergei-parajanov-symposium)
+<iframe width="800"
+  height="400"  src="https://events.berkeley.edu/events/event/271501-sergei-parajanov-symposium"></iframe>
 ---
 ### Cal Arts and Performances
 ---
@@ -74,13 +85,17 @@ This event is the first live version of our popular Basic Science Lights the Way
 [Academic Earth](https://academicearth.org/universities/berkeley/)
 [Available to students, those with CalNet Access](https://rtl.berkeley.edu/webcast-and-legacy-course-capture#c,d,Public_Health)
 
-
+<iframe width="800"
+  height="400"  src="https://academicearth.org/universities/berkeley/"></iframe>
+  
 ## Lecture series from Schools and Departments
 ---
 
 ### Haas Dean's Speaker Series
  
  [Haas Dean's Speaker Series](https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/)
+<iframe width="800"
+  height="400"  src="https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/"></iframe>
  
 ---
 
