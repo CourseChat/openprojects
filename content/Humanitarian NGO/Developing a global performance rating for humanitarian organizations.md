@@ -1,0 +1,22 @@
+## Primary indices
+- Security
+- Water
+- Food
+- Health
+	- Disease
+	- Life expectancy
+- Shelter
+- Cleanliness
+- Education
+- Fragility/Resilience
+- Time needed for:
+	- Security
+	- Water
+	- Food
+	- Shelter
+	- Cleanliness
+	- Sleep
+	- Children and family
+	- Income
+	- Education
+- 
