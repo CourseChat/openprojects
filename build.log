@@ -1,0 +1,11 @@
+
+ Quartz v4.2.3 
+
+(node:8175) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Cleaned output directory `public` in 14ms
+Found 60 input files from `content` in 8ms
+[2K[1GParsed 60 Markdown files in 705ms
+Filtered out 6 files in 83μs
+[2K[1GEmitted 88 files to `public` in 318ms
+Done processing 60 files in 1s
