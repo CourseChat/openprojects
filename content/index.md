@@ -10,8 +10,9 @@ tags:
 ## Links to projects
 - [[Berkeley Lectures for Berkeley Open Courseware]]
 - [[Berkeley Open Courseware]]
-[[iframe links.html]]
-[ifram](https://www.youtube.com/BerkeleyHaas)
+
+[[iframe links.html|"Streaming Lecture Sites"]]
+
 - [[Classes-Fall-2024]]
 - [[Berkeley Brilliance]]
 - [[Block By Block]]
