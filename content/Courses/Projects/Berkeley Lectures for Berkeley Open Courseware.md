@@ -2,18 +2,20 @@
 ### How can we build an attractive and continuing program of access to the wealth of Berkeley lectures and courses in a theatrical, large-screen presentation space such as Rialto's Elmwood and El Cerrito theaters?
 - We propose trials of several packages of combinations of pubic lectures, class lectures, and in-person presentations. 
 - We seek to answer a simple question: **can we fill a theater during the day with interested attendees: students, auditors, and general public?** 
+- We could feature one Berkeley Nobel laureate, such as Jennifer Doudna.....show a 20-minute general overview of CRISPR by Doudna downstairs, and show her actual course upstairs--in 2025, stream the actual Biology 1 taught by Jennifer Doudna. 
 
-| Theater                | Seating | Type of Presentation                         | Material                                                                            |
+| Elmwood <br> Theater                | Seating | Type of Presentation                         | Material                                                                            |
 | ---------------------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Main Downstairs Screen | 300     | Lecture                                      | Berkeley Brilliance: <br>Nobel lectures                                             |
-| Upstairs A             | 60      | 2025 Class by Nobel laureate                 | [CRISPR](https://classes.berkeley.edu/content/2025-spring-mcellbi-229c-001-sem-001) |
-| Upstairs B             | 60      | Foundations of Data Science<br>1100 students | [Data C8](https://classes.berkeley.edu/content/2025-spring-data-c8-001-lec-001)     |
+| Main Downstairs<br> Screen | 300     | Lecture                                      | Berkeley Brilliance: <br>Nobel lecturers                                             |
+| Upstairs<br> A             | 60      | 2025 Class by Nobel laureate                 | [CRISPR](https://classes.berkeley.edu/content/2025-spring-biology-1a-001-lec-001) |
+| Upstairs<br> B             | 60      | Foundations of Data Science<br>1100 students | [Data C8](https://classes.berkeley.edu/content/2025-spring-data-c8-001-lec-001)     |
 
 Other candidates for a screen: 
 - the OLLI lecture series: pick any of the popular courses of the past 5 years; 
 - The more advanced Data Science course: 1000 students
-- The Haas Dean's Speaker series, with a different lecture each day
+- The Haas Dean's Speaker series, showing  a different lecture each day from a list of 50 recent lectures.
 - Academic Earth, after the permission requirement is relaxed to include community members
+- At the moment, some of the best lectures--30 minute overviews of the most exciting topics, as in the Berkeley Brilliance lectures--require campus credentials, called "CalNet" access, or "Sponsored Guest" access, to stream. We can give you that "Sponsored Guest" access instantly, while we work to get that requirement lifted for the 2024 and 2025 lectures.
 
 ---
 -  **November, 2024**: This is a work-in-progress to build a menu of  available lectures, courses, and other Berkeley materials suitable for presentation in theatrical venues. As a first pass, here are links to **candidate lecture series**. 
