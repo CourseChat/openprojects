@@ -17,3 +17,4 @@
 ### Executive Vice Chancellor
 ### Vice Chancellor for Academic Affairs
 ### Academic Senate
+### College of Engineering
