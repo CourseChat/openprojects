@@ -8,8 +8,10 @@ tags:
 - 
 - Several of the links are to projects to [annotate lectures with accompanying Jupyter Notebooks](Build%20Jupyter%20notebook%20supplement%20to%20ELP%20Water%20lectures), allowing computations to occur in parallel with the lecture, and then be modified to create specific examples that might correspond more specifically to a student's interests.
 ## Links to projects
-
- -  [[Berkeley Open Courseware]]
+- [[Berkeley Lectures for Berkeley Open Courseware]]
+- [[Berkeley Open Courseware]]
+[[iframe links.html]]
+[ifram](https://www.youtube.com/BerkeleyHaas)
 - [[Classes-Fall-2024]]
 - [[Berkeley Brilliance]]
 - [[Block By Block]]
@@ -21,7 +23,7 @@ tags:
 - [[Water Harvesting]]
 - [[Project List]]
 - links to other notes
-	[[Omar Yaghi#Videos of lectures]]
+	- [[Omar Yaghi#Videos of lectures]]
 	- 
 	- Distributed Fiber Optic Sensing
 ---
