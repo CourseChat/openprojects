@@ -10,7 +10,7 @@
 | Upstairs<br> A             | 60      | 2025 Class by Nobel laureate                 | [CRISPR](https://classes.berkeley.edu/content/2025-spring-biology-1a-001-lec-001) |
 | Upstairs<br> B             | 60      | Foundations of Data Science<br>1100 students | [Data C8](https://classes.berkeley.edu/content/2025-spring-data-c8-001-lec-001)     |
 
-Other candidates for a screen: 
+Other candidates for a screening: 
 - the OLLI lecture series: pick any of the popular courses of the past 5 years; 
 - The more advanced Data Science course: 1000 students
 - The Haas Dean's Speaker series, showing  a different lecture each day from a list of 50 recent lectures.
