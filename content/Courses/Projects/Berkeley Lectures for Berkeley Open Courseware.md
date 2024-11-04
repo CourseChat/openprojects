@@ -1,10 +1,22 @@
 # Lecture series for a general public
-run 1
-- This note explores how to build an attractive and continuing program of access to the wealth of Berkeley lectures and courses in a theatrical, large-screen presentation space such as Rialto's Elmwood and El Cerrito theaters.
-- We propose trials of several packages of combinations of lectures and personal presentations. We seek to answer a simple question: **can we fill a theater during the day with interested attendees: students, auditors, and general public?** 
+### How can we build an attractive and continuing program of access to the wealth of Berkeley lectures and courses in a theatrical, large-screen presentation space such as Rialto's Elmwood and El Cerrito theaters?
+- We propose trials of several packages of combinations of pubic lectures, class lectures, and in-person presentations. 
+- We seek to answer a simple question: **can we fill a theater during the day with interested attendees: students, auditors, and general public?** 
+
+| Theater                | Seating | Type of Presentation                         | Material                                                                            |
+| ---------------------- | ------- | -------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Main Downstairs Screen | 300     | Lecture                                      | Berkeley Brilliance: <br>Nobel lectures                                             |
+| Upstairs A             | 60      | 2025 Class by Nobel laureate                 | [CRISPR](https://classes.berkeley.edu/content/2025-spring-mcellbi-229c-001-sem-001) |
+| Upstairs B             | 60      | Foundations of Data Science<br>1100 students | [Data C8](https://classes.berkeley.edu/content/2025-spring-data-c8-001-lec-001)     |
+
+Other candidates for a screen: 
+- the OLLI lecture series: pick any of the popular courses of the past 5 years; 
+- The more advanced Data Science course: 1000 students
+- The Haas Dean's Speaker series, with a different lecture each day
+- Academic Earth, after the permission requirement is relaxed to include community members
 
 ---
--  October, 2024: Here is a work-in-progress to build a menu of  available lectures, courses, and other Berkeley materials suitable for presentation in theatrical venues. As a first pass, here are links to **candidate lecture series**. 
+-  **November, 2024**: This is a work-in-progress to build a menu of  available lectures, courses, and other Berkeley materials suitable for presentation in theatrical venues. As a first pass, here are links to **candidate lecture series**. 
 - Secondly, **candidate graduate and undergraduate courses**: from the two to three thousand courses offered each semester, a second page is building a list of recommended courses.  Here is a [preliminary example focused on environmental courses](Classes-Fall-2024)
 -  Each heading below is for a different lecture or public presentation series now programmed on the Berkeley campus, and potentially available for screening in other locations.
 - Separately, each semester there are massive class offerings--thousands of students are enrolled in Data Science 8, or Data Science 100--so live lectures, or time-shifted lectures may be available for screening in an off-campus setting. It's an open question if streamed courses would attract students and auditors to an off-campus auditorium.
@@ -16,14 +28,29 @@ run 1
 ---
 
 ## Berkeley Events
-[Berkeley Events](https://events.berkeley.edu/?view=facilities)
-- [Berkeley Daily Events](https://events.berkeley.edu/events/)
 
-<iframe width="800"
-  height="400"  src="https://events.berkeley.edu/?view=facilities"></iframe>
+### Overall Calendar of General, Academic, and Cultural Events
+- Each calendar entry has links to the event. Some can be streamed.
+
+[**Berkeley Events**](https://events.berkeley.edu/?view=facilities)
+
+
+[Berkeley Daily Events](https://events.berkeley.edu/events/)
+
+
+
+
+<div class="external-content">
+  <a href="https://events.berkeley.edu/">Berkeley Events Calendar</a>
+  <!-- Optional: Add preview image -->
+  <img src="preview.png" alt="">
+</div>
+
 
 ---
-## General Lecture Series
+
+
+##  Lecture Series with Overview Content: OLLI, Graduate Lectures, Berkeley Brilliance
 
 ---
 
@@ -32,11 +59,15 @@ run 1
 ### Courses and lectures  on general topics presented on YouTube in a Zoom format, or given in off-campus theatrical venues such as Freight and Salvage
 - 100 courses and dozens of Town Halls,  created for OLLI: presented by speakers from many backgrounds.
 
-[Osher Life Long Learning InstituteI](https://olli.berkeley.edu/speaker-series-town-halls)
+[**Osher Life Long Learning Institute**](https://olli.berkeley.edu/speaker-series-town-halls)
 
 
-<iframe width="800"
-  height="400"  src="https://olli.berkeley.edu/speaker-series-town-halls"></iframe>
+<!-- Use a wrapper div with fallback -->
+<div class="external-content">
+  <a href="https://olli.berkeley.edu/speaker-series-town-halls">OLLI</a>
+  <!-- Optional: Add preview image -->
+  <img src="preview.png" alt="">
+</div>
 
 
 ---
@@ -45,33 +76,55 @@ run 1
 ### Berkeley Graduate Lectures
 - [Lectures since 2004](https://gradlectures.berkeley.edu/lecture/)
 - Example: October, 2024: [Bill McKibben-2024](https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/)
--  <iframe width="800"
-  height="400"  src="https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/"></iframe>
+<div class="external-content">
+  <a href="https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/" target="_blank">Bill McKibben- October 1, 2024</a>
+  <!-- Optional: Add preview image -->
+  <img src="preview.png" alt="">
+</div>
+
 ---
 
-%%
+
 
 ### Berkeley Brilliance
+#### 2024 Lecture series with Nobel laureates, leaders in many disciplines: 26 Lectures
 - Spring 2024
-[https://curricularconnections.berkeley.edu/ls110/](https://curricularconnections.berkeley.edu/ls110/)
+
+[**Berkeley Brilliance**](https://curricularconnections.berkeley.edu/ls110/)
 - not offered in Fall 2024
 - Spring 2025
-	- May be offered
-<iframe width="800"
-  height="400"  src="https://curricularconnections.berkeley.edu/ls110/"></iframe>
+	- May be offered in Spring 2005
+<div class="external-content">
+  <a href="https://curricularconnections.berkeley.edu/ls110/">Berkeley Brilliance</a>
+  <!-- Optional: Add preview image -->
+  <img src="preview.png" alt="">
+</div>
+
+
+
 ---
 ### Basic Science Lights the Way
 
 This event is the first live version of our popular Basic Science Lights the Way series — virtual conversations on current, cutting-edge research happening at UC Berkeley.
 
-[Science lights the way](https://www.youtube.com/watch?v=b8JTOlxJ_DE)
-<iframe width="800"
-  height="400"  src="https://basicscience.berkeley.edu/"></iframe>
+[**Basic Science lights the way**](https://www.youtube.com/watch?v=b8JTOlxJ_DE)
+<!-- Use a wrapper div with fallback -->
+<div class="external-content">
+  <a href="https://basicscience.berkeley.edu/">Basic Science Lights the Way</a>
+  <!-- Optional: Add preview image -->
+  <img src="preview.png" alt="">
+</div>
+
+
+
+
 ---
+
+
+
 ### Science At Cal
 [Science at Cal](https://scienceatcal.berkeley.edu/lectureseries/)
-<iframe width="800"
-  height="400"  src="https://scienceatcal.berkeley.edu/lectureseries"></iframe>
+
 ---
 ## Theatrical and Film Series
 
@@ -89,6 +142,8 @@ This event is the first live version of our popular Basic Science Lights the Way
 
 ---
 
+
+
 ### Academic Earth: RTL 
 [[Research, Teaching, & Learning](https://rtl.berkeley.edu/ "Home")]
 [Academic Earth](https://academicearth.org/universities/berkeley/)
@@ -103,12 +158,10 @@ This event is the first live version of our popular Basic Science Lights the Way
 ### Haas Dean's Speaker Series
  
  [Haas Dean's Speaker Series](https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/)
-<iframe width="800"
-  height="400"  src="https://haas.berkeley.edu/about/speaker-series/deans-speaker-series/"></iframe>
- 
+
 ---
 
-%%
+
 ### Berkeley Center for Ocean Futures
 - https://nature.berkeley.edu/ocean_futures
 - 
