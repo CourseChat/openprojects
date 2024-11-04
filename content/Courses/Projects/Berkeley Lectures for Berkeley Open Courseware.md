@@ -14,7 +14,7 @@ run 1
 - The **Haas Dean's Speaker Series**, the **Berkeley Graduate Lectures**, **Basic Science Lights the Way**, **Science At Cal**, **Berkeley Lecture Series Engaging the Iranian Community** are all available to stream for a general audience
 - **Academic Earth** streams a series of lectures, but currently only for those with access to the campus **CalNet** network, which is to say, only accessible to students, faculty and staff.  However, to access CalNet, there is a special category, **Sponsored Guest**, available to auditors and outside researchers, that can be awarded by any faculty or staff member, and thus has potential access to **Academic Earth**, and to any class, with instructor permission.
 ---
-%%
+
 ## Berkeley Events
 [Berkeley Events](https://events.berkeley.edu/?view=facilities)
 - [Berkeley Daily Events](https://events.berkeley.edu/events/)
@@ -27,16 +27,20 @@ run 1
 
 ---
 
+
 ### OLLI speaker series and Town Halls, by the Osher Life Long Learning Institute:
 ### Courses and lectures  on general topics presented on YouTube in a Zoom format, or given in off-campus theatrical venues such as Freight and Salvage
 - 100 courses and dozens of Town Halls,  created for OLLI: presented by speakers from many backgrounds.
 
 [Osher Life Long Learning InstituteI](https://olli.berkeley.edu/speaker-series-town-halls)
 
+
 <iframe width="800"
   height="400"  src="https://olli.berkeley.edu/speaker-series-town-halls"></iframe>
 
+
 ---
+
 
 ### Berkeley Graduate Lectures
 - [Lectures since 2004](https://gradlectures.berkeley.edu/lecture/)
@@ -44,6 +48,9 @@ run 1
 -  <iframe width="800"
   height="400"  src="https://gradlectures.berkeley.edu/lecture/the-deadly-trade-in-oil-and-gas/"></iframe>
 ---
+
+%%
+
 ### Berkeley Brilliance
 - Spring 2024
 [https://curricularconnections.berkeley.edu/ls110/](https://curricularconnections.berkeley.edu/ls110/)
