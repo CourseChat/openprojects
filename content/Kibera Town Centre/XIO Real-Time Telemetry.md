@@ -2,10 +2,25 @@
 # Extending telemetry to comprehensive site digital twin
 [Link to Real Time Telemetry](https://johngage.github.io/XIO-OperationalDataKTC/)
 
+- [[Water Organizations]]
+- 
+
 ## XIO  Real-Time Telemetry Examples
 - Build examples of existing site designs extended to digital twins
+	- Palo Alto?
+- Advanced Metering Infrastructure
+	- Amazon 
+	- [CivilGrid](https://www.civilgrid.com/#home-partners)
+	- New telemetry connections for schools, public facilities
+	- Flume
+	- Flo
+	- Oracle, Sensus, Badger, AquaMetric, 
 - Incorporate conversion to [[Zero-Trust Environment]]
 	- Operating-system dependent
+		- SCADA sites overwhelmingly use insecure and outdated Microsoft software
+		- Use new Microsoft commitment to [[Zero-Trust Environment]]; 
+		- partner with Amazon in establishing metering RF infrastructure for water utilities
+			- 
 	- Move to post-SCADA security
 	- Incorporate machine-learning models for system maintenance and rebuild models
 	- Re-engineer emergency response systems for advanced pipe, pump and valve replacement schedule
@@ -49,12 +64,16 @@ Link to docs.google.com/spreadsheets
 ---
 
 iframe from docs.google.com/spreadsheets
-<iframe src="https://docs.google.com/spreadsheets/d/1vzGa6wepsXOBiFh2k5qptadJ4B0HjZh3NEVsS7CHkcs/edit?pli=1&gid=0#gid=0" width="1000px" height="2000px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1vzGa6wepsXOBiFh2k5qptadJ4B0HjZh3NEVsS7CHkcs/edit?pli=1&gid=0#gid=0" width="1000px" height="3000px"></iframe>
 
 
 ---
 
 ## XIO customer base: 1000 accounts
+### Stanford
+### Florida
+### CRLA
+### AWWA
 
 ---
 

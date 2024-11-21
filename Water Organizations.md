@@ -1,0 +1,29 @@
+## Water Organizations
+- List of all water organizations in [[Sophia Skoda]] finance presentation
+	- Las Vegas Valley Water District:
+		-  https://www.lvvwd.com/about/budget-financial-reports/index.html
+		- https://www.lvvwd.com/assets/pdf/comprehensive-annual-financial-report.pdf
+	- San Diego County Water Authority
+		- https://www.sdcwa.org/wp-content/uploads/2021/11/FY21-CAFR-SECURED-002.pdf
+	- Orange County Sanitation District
+		- https://www.ocsan.gov/about-us/financials/budget
+		- https://www.ocsan.gov/about-us/transparency/financials/financial-information-and-forms/-folder-1069
+		- https://www.ocsan.gov/home/showpublisheddocument/32895/637920994536470000
+	- Metropolitan Water District
+		- https://www.mwdh2o.com/?query=financial&page=5
+		- https://www.mwdh2o.com/media/22347/proposed-biennial-budget-fys-2022-23-and-2023-24-updated.pdf
+	- Atlanta Watershed
+		- https://www.atlantaga.gov/home/showpublisheddocument/49467/637460503414400000
+	- DC Water
+		- https://www.dcwater.com/what-we-do
+		- https://www.dcwater.com/sites/default/files/finance/CAFR/2021/2021_financial_section.pdf
+	- Massachusetts Water Resources Authority
+		- https://www.mwra.com/finance/documents/financial-statements-independent-auditor-report/2020-2019-june-30/MWRA%20-%20final%202020%20financial%20statements.pdf
+	- Regional SAN: Sacramento
+		- https://www.regionalsan.com/financial-reports
+		- https://www.regionalsan.com/sites/main/files/file-attachments/regional_san_22-23_budget_book_-_final.pdf?1655230423
+	- San Jose Water
+		- https://www.sjwater.com/our-company
+	- Nairobi Water and Sewerage Company
+		- https://www.nairobiwater.co.ke/wp-content/uploads/2022/07/ANNUAL-AUDIT-FINANCIAL-ACCOUNTS-FY2019-2020.pdf
+		- 
