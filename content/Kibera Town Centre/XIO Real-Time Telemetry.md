@@ -2,6 +2,9 @@
 # Extending telemetry to comprehensive site digital twin
 [Link to Real Time Telemetry](https://johngage.github.io/XIO-OperationalDataKTC/)
 
+- [[Work Plan]]
+- [Resulting Jupyter Notebook at Colab](https://colab.research.google.com/drive/1T6J97EZrM3TwkW_A9YDfJUA3p8SjnB2Y#scrollTo=EcZjG90NVENZ)
+- See Google Notebook
 - [[Water Organizations]]
 - 
 

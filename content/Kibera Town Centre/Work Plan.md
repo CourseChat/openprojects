@@ -8,6 +8,9 @@
 	- Similar to hardware design languages, with provability sequences
 	- Use LEAN proof methodology 
 	- Use Colorado School of Mines  [[Bricks]] [ontology](https://cs.mines.edu/project/fierro-gabriel/) , developed at UC Berkeley by [[Gabe Fierro]]
+	- Examples:
+		- [[From diagram to component list]]
+		- 
 - Create note for each item; JN for each item; 
 	- Include each step: 
 	- original design document, in Google Files
