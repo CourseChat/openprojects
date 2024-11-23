@@ -46,7 +46,11 @@
 - Original XIO Real Time telemetry
 [Link to Real Time Telemetry](https://johngage.github.io/XIO-OperationalDataKTC/)
 
-## [[Work Plan]]
+## [[Work Plan Examples]]
+> [!info] Using XIO historical customer data from five years of **Kibera Town Centre** operation
+> 
+> Here is an example of a Jupyter Notebook for the Waste Water system at KTC, built by ingesting a GoogleDocs spreadsheet of all system components, visible below. Using Anthropic **Claude** as the LLM, this document was ingested, and from the diagram,  created a list of all components and their position in the flow. From that, **Claude** created Jupyter Notebooks. ** Google Notebook** created a variant. The **JN** then was copied to **Google Colabs**, where it is running now, with Python pseudo-code calculating system power, system pressure and system flows, tank capacity and tank flows......ready to be elaborated with as detailed hydrology as desired, and as elaborate time-series analysis as desired.
+
 - [Resulting Jupyter Notebook at Colab](https://colab.research.google.com/drive/1T6J97EZrM3TwkW_A9YDfJUA3p8SjnB2Y#scrollTo=EcZjG90NVENZ)
 - See Google Notebook
 - [[Water Organizations]]
