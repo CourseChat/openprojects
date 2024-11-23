@@ -1,10 +1,37 @@
 
 # Extending telemetry to comprehensive site digital twin
 
-- Original XIO Real Time telem
+## Start with sensor list
+- Map all existing sensor and actuator feeds to XiO cloud
+- List all potential sensor and actuator feeds
+- Create AWWA template for example facilities, listing example configurations
+	- Pipes, pumps, valves, tanks, reservoirs,
+	- All SCADA elements
+	- All PLCs
+	- All racks, monitoring computational elements
+	- All signal transmission paths
+## Add all design, build, installation, maintenance documents
+- Inventory documentation; annotate with file type, creation date, modification date, owner, editor, viewer identification; use template for creation of Zero Trust architecture
+- Working drawings of system and system elements: scan, digitize, OCR
+- Spreadsheets detailing projected flows, pressures, power demands
+- Component manuals
+- Installation records
+- Certification of installation records
+- Maintenance records
+## Create System Repository or archive for each customer
+
+## Extract  an executable XIO template (ET) for each customer for each component and for overall system
+- Use Google Notebook to create this template from the System Repository
+- Create executable Jupyter Notebook (JN) for each component
+- Create JN for overall system
+	- Think of this as a real-time spreadsheet for an operational system
+	- Think of each component as an executable object
+## Use this ET to validate **Zero Trust Implementation**
+
+- Original XIO Real Time telemetry
 [Link to Real Time Telemetry](https://johngage.github.io/XIO-OperationalDataKTC/)
 
-- [[Work Plan]]
+## [[Work Plan]]
 - [Resulting Jupyter Notebook at Colab](https://colab.research.google.com/drive/1T6J97EZrM3TwkW_A9YDfJUA3p8SjnB2Y#scrollTo=EcZjG90NVENZ)
 - See Google Notebook
 - [[Water Organizations]]
