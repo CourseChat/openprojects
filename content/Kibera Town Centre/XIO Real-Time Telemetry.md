@@ -8,11 +8,15 @@
 	- Pipes, pumps, valves, tanks, reservoirs,
 	- All SCADA elements
 	- All PLCs
-	- All racks, monitoring computational elements
+	- All racks, monitoring computational elements, interconnection plug boards, routers
 	- All signal transmission paths
 ## Add all design, build, installation, maintenance documents
-- Inventory documentation; annotate with file type, creation date, modification date, owner, editor, viewer identification; use template for creation of Zero Trust architecture
-- Working drawings of system and system elements: scan, digitize, OCR
+- Create a complete picture of all system elements: how they interact, how they were installed and maintained
+- Inventory all documentation; annotate each document with file type, creation date, modification date, owner, editor, viewer identification; use template for creation of Zero Trust architecture
+- Include Working drawings of system and system elements: 
+	- scan, digitize, OCR original system records
+	- include all field documents with any installation comments
+		- transmission standard; interconnect location, maintenance and inspection records
 - Spreadsheets detailing projected flows, pressures, power demands
 - Component manuals
 - Installation records
@@ -38,16 +42,29 @@
 - 
 
 ## XIO  Real-Time Telemetry Examples
-- Build examples of existing site designs extended to digital twins
-	- Palo Alto?
-- Advanced Metering Infrastructure
+### Build examples of **existing site designs** extended to digital twins
+	- All Stanford existing telemetry
+		- Storm water monitoring
+		- Reservoir levels: use this weekend Atmospheric River monitoring records
+		- Warm water temperature capture from dormitories
+		- Flows; energy use; 
+	- Kibera Town Centre
+	- Ventura County
+	- Russian River
+	- Existing customers who have given permission to use in XiO demonstrations
+- ### Add new telemetry customers
+	- Add **Palo Alto** as a partner, since they own power, water, sewage, telecom
+	- Add **UC Berkeley Center for Smart Infrastructure**
+	- Add **UC Berkeley Campus projects for geothermal building heating and cooling**
+	- Add **Google new building**
+### Advanced Metering Infrastructure installations
 	- Amazon 
 	- [CivilGrid](https://www.civilgrid.com/#home-partners)
 	- New telemetry connections for schools, public facilities
 	- Flume
 	- Flo
 	- Oracle, Sensus, Badger, AquaMetric, 
-- Incorporate conversion to [[Zero-Trust Environment]]
+## Incorporate conversion to [[Zero-Trust Environment]]
 	- Operating-system dependent
 		- SCADA sites overwhelmingly use insecure and outdated Microsoft software
 		- Use new Microsoft commitment to [[Zero-Trust Environment]]; 
