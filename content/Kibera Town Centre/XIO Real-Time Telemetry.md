@@ -1,5 +1,9 @@
 
 # Extending telemetry to comprehensive site digital twin
+> [!info] Digital Twin meets Zero Trust
+> 
+> This is an overview of an XIO **Digital Twin** initiative to offer a new service to existing and prospective customers: build an executable real-time model of their system and all of its components, with a new, inherent capability to sense intrusions, code insertions, and PLC signal path alterations. Here are the steps to take with an existing customer.
+
 
 ## Start with sensor list
 - Map all existing sensor and actuator feeds to XiO cloud
@@ -11,6 +15,10 @@
 	- All racks, monitoring computational elements, interconnection plug boards, routers
 	- All signal transmission paths
 ## Add all design, build, installation, maintenance documents
+> [!info] Build the system history repository
+> 
+> This is a new function and new expense for XIO. Essentially, add a small archivist and librarian staff for documentation, cataloging, OCR, and ingestion.  See "Semantic Scholar". This systematizes the XIO customer relationship, and is an inducement service for new customers, who may be overwhelmed by the challenges of moving to a machine learning environment.
+
 - Create a complete picture of all system elements: how they interact, how they were installed and maintained
 - Inventory all documentation; annotate each document with file type, creation date, modification date, owner, editor, viewer identification; use template for creation of Zero Trust architecture
 - Include Working drawings of system and system elements: 
@@ -23,6 +31,9 @@
 - Certification of installation records
 - Maintenance records
 ## Create System Repository or archive for each customer
+> [!info] Use new LLM tools to vectorize all elements in the System Repository
+> 
+> Combine with existing LLM to generate graphs of existing system elements and their interrelationships, then use Google Notebook to generate Jupyter Notebooks for the overall system, and for each component. As the JN execute, they build the graphical representation of flows, power usage, pipe and pump operating state: vibration, temperature, strain, pipe wall thickness, amperage. Add in Distributed Fiber Optic sensing, soil chemistry.
 
 ## Extract  an executable XIO template (ET) for each customer for each component and for overall system
 - Use Google Notebook to create this template from the System Repository
