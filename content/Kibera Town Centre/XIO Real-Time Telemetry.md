@@ -111,8 +111,12 @@
 ### Kibera Town Centre: Nairobi, Kenya
 
 ![XIO 2018](https://docs.google.com/spreadsheets/d/1vzGa6wepsXOBiFh2k5qptadJ4B0HjZh3NEVsS7CHkcs/edit?pli=1&gid=0#gid=0)
-
-
+### To be added
+- [Balance Hydrologics](https://xiowatersystems-my.sharepoint.com/:b:/g/personal/colinb_xiowatersystems_onmicrosoft_com/EX6ot7QvyYpAmhNy-VITfpAB5ERIYYjk4Y6ihUCBwQvCWQ?e=aXc1Qx) - Build vs. Buy a Cloud Platform
+- [Cobb Area Water District](https://xiowatersystems-my.sharepoint.com/:b:/g/personal/colinb_xiowatersystems_onmicrosoft_com/EczsGWCOWEpAkuj-EymxuCABKw-JSg0CzTdFZHzGKD2ZAQ?e=Ipaddi) - State Consolidation made Easy
+- [Cold Springs Water Company](https://xiowatersystems-my.sharepoint.com/:b:/g/personal/colinb_xiowatersystems_onmicrosoft_com/EZJZCGvB78VCn2tTWmuluWcBr-ZqWUosXRpAbu7Ta-gB5A?e=lTPWT7) - Continued Management despite Record Snowfall
+- [Russian River Utility - Distributed Managed Operations](https://xiowatersystems-my.sharepoint.com/:b:/g/personal/colinb_xiowatersystems_onmicrosoft_com/ETPyNxf121NAmnIahq5STAMBLP2liLWopBuwn4sgM3m8-w?e=hHyZjV) - Boost efficiency, reduce operations costs
+- [Pleasant Valley Water District - Energy, Water, and Cost Savings](https://xiowatersystems-my.sharepoint.com/:b:/g/personal/colinb_xiowatersystems_onmicrosoft_com/EcPHCeV3169LjdNo7yQfwxgBnk6-B0My05D8ToXaZiKQ7Q?e=jQ5mAZ) - Cloud Computing optimizes energy usage
 
 
 ---
