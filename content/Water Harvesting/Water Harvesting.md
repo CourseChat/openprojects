@@ -4,7 +4,7 @@ title:  Water Harvesting
 # Major new advance: new materials capture water from air at close to zero cost in energy and materials
 > [!info] Watch the May, 2024 lecture below: On Human Origins and the Future of Humanity
 > 
-> The first part is chemistry-invention of new class of Molecular Organic Frameworks. Jump to minute 28 for water extraction explanation and demonstration. Watch last 4 minutes for introduction of LLM and AI in designing thousands of new materials. Yaghi has moved 60% of his chemistry lab to using Chat GPT for molecular design.
+> The first part is chemistry--invention of a new materials: Molecular Organic Frameworks. Jump to minute 26 for CO2 capture, minute 36 for water extraction explanation and demonstration. Watch last 4 minutes for introduction of LLM and AI in designing thousands of new materials. Yaghi has moved 60% of his chemistry lab to using Chat GPT for molecular design.
 
 ## New passive capture yields water in < 20% humidity arid regions of the world
 
