@@ -2,7 +2,7 @@
 # Extending telemetry to comprehensive site digital twin
 > [!info] Digital Twin meets Zero Trust
 > 
-> This is an overview of an XIO **Digital Twin** initiative to offer a new service to existing and prospective customers: build an executable real-time model of their system and all of its components, with a new, inherent capability to sense intrusions, code insertions, and PLC signal path alterations. Here are the steps to take with an existing customer.
+> This is an overview of an XIO **Digital Twin** initiative to offer a new service to existing and prospective customers: build an executable real-time model of their system and all of its components, with a new, inherent capability to sense intrusions, code insertions, and PLC signal path alterations. From this, create a specific plan for migration to a Zero-Trust architecture, component by component. Here are the steps to take with an existing customer.
 
 
 ## Start with sensor list
