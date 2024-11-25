@@ -37,6 +37,15 @@
 > Combine with existing LLM to generate graphs of existing system elements and their interrelationships, then use Google Notebook to generate Jupyter Notebooks for the overall system, and for each component. As the JN execute, they build the graphical representation of flows, power usage, pipe and pump operating state: vibration, temperature, strain, pipe wall thickness, amperage. Add in Distributed Fiber Optic sensing, soil chemistry.
 
 ## Build  an executable XIO Template (ET) for each customer 
+> [!info] Here is the Jupyter Notebook built in 2018 to capture XIO data. It downloads 525,600 rows of data a year: one reading a minute. This is discrete enough for operational alerts for system managers.
+> 
+>  (https://colab.research.google.com/drive/1XcQYlQx4mYPJjRZNO0gxnHKXhaJhBEgG#scrollTo=S6FGOF65K6Gd)
+
+It was complicated to get the XiO token to allow the download from AWS.  Need to redo this with today's archived Kibera Town Centre data at AWS.
+
+[Getting XiO data for 2 years](https://colab.research.google.com/drive/1XcQYlQx4mYPJjRZNO0gxnHKXhaJhBEgG#scrollTo=S6FGOF65K6Gd)
+
+
 > [!tip] Use Brick ontology for system descriptions
 > 
 > As XiO builds a set of example systems, a main goal is to create an AWWA standard system description that can be adopted by the AWWA Technical Innovations committee, chaired by Clifford Chan, CEO of EBMUD. 

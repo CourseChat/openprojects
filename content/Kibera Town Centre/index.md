@@ -7,3 +7,5 @@ enableToc: true
 {{! folder }}
 
 # Show TOC
+## Table of Contents
+[[index]]
