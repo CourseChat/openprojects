@@ -37,6 +37,13 @@
 > Combine with existing LLM to generate graphs of existing system elements and their interrelationships, then use Google Notebook to generate Jupyter Notebooks for the overall system, and for each component. As the JN execute, they build the graphical representation of flows, power usage, pipe and pump operating state: vibration, temperature, strain, pipe wall thickness, amperage. Add in Distributed Fiber Optic sensing, soil chemistry.
 
 ## Build  an executable XIO Template (ET) for each customer 
+> [!tip] Use Brick ontology for system descriptions
+> 
+> As XiO builds a set of example systems, a main goal is to create an AWWA standard system description that can be adopted by the AWWA Technical Innovations committee, chaired by Clifford Chan, CEO of EBMUD. 
+> For national or international adoption as a standard, major player must be convinced of the value and legitimacy of the new LLM work plan. [[Brick]], from UC Berkeley and Colorado School of Mines, can be a framework.
+> 
+> see [[Work Plan]]
+
 - For overall system; for each component; for each data source and sink 
 - Use Google Notebook to create this template from the System Repository
 - Create executable Jupyter Notebook (JN) for each component, capturing all data flows
