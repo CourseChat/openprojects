@@ -14,35 +14,40 @@
 	- All PLCs
 	- All racks, monitoring computational elements, interconnection plug boards, routers
 	- All signal transmission paths
-## Add all design, build, installation, maintenance documents
+## Add all system documents: design, build, installation, maintenance 
 > [!info] Build the system history repository
 > 
 > This is a new function and new expense for XIO. Essentially, add a small archivist and librarian staff for documentation, cataloging, OCR, and ingestion.  See "Semantic Scholar". This systematizes the XIO customer relationship, and is an inducement service for new customers, who may be overwhelmed by the challenges of moving to a machine learning environment.
 
-- Create a complete picture of all system elements: how they interact, how they were installed and maintained
+- Create a complete picture of all system elements: how they interact, how they were installed and maintained, add all vendor information: purchase date, warranties, service contracts, hardware and software updates and repairs
 - Inventory all documentation; annotate each document with file type, creation date, modification date, owner, editor, viewer identification; use template for creation of Zero Trust architecture
 - Include Working drawings of system and system elements: 
 	- scan, digitize, OCR original system records
 	- include all field documents with any installation comments
+		- final as-built documentation and drawings
 		- transmission standard; interconnect location, maintenance and inspection records
-- Spreadsheets detailing projected flows, pressures, power demands
+- Spreadsheets detailing operations: projected flows, pressures, power demands
 - Component manuals
 - Installation records
 - Certification of installation records
 - Maintenance records
-## Create System Repository or archive for each customer
+## Create System Repository (SR) or archive for each customer
 > [!info] Use new LLM tools to vectorize all elements in the System Repository
 > 
 > Combine with existing LLM to generate graphs of existing system elements and their interrelationships, then use Google Notebook to generate Jupyter Notebooks for the overall system, and for each component. As the JN execute, they build the graphical representation of flows, power usage, pipe and pump operating state: vibration, temperature, strain, pipe wall thickness, amperage. Add in Distributed Fiber Optic sensing, soil chemistry.
 
-## Extract  an executable XIO template (ET) for each customer for each component and for overall system
+## Build  an executable XIO Template (ET) for each customer 
+- For overall system; for each component; for each data source and sink 
 - Use Google Notebook to create this template from the System Repository
-- Create executable Jupyter Notebook (JN) for each component
+- Create executable Jupyter Notebook (JN) for each component, capturing all data flows
 - Create JN for overall system
 	- Think of this as a real-time spreadsheet for an operational system
 	- Think of each component as an executable object
+- See Work Plan Examples showing running Jupyter Notebooks at  Colab
 ## Use this ET to validate **Zero Trust Implementation**
-
+- Build analyzer showing user authentication, component authentication, roles, authorities
+- Build customer roadmap for replacement of archaic Microsoft OS, applications
+	- Utilize new Microsoft commitment to Zero Trust
 - Original XIO Real Time telemetry
 [Link to Real Time Telemetry](https://johngage.github.io/XIO-OperationalDataKTC/)
 
@@ -53,12 +58,11 @@
 
 - [Resulting Jupyter Notebook at Colab](https://colab.research.google.com/drive/1T6J97EZrM3TwkW_A9YDfJUA3p8SjnB2Y#scrollTo=EcZjG90NVENZ)
 - See Google Notebook
-- [[Water Organizations]]
-- 
+- [[Water Organizations]] **Potential Test Site Partners**
 
 ## XIO  Real-Time Telemetry Examples
 ### Build examples of **existing site designs** extended to digital twins
-	- All Stanford existing telemetry
+	- All Stanford existing telemetry projects
 		- Storm water monitoring
 		- Reservoir levels: use this weekend Atmospheric River monitoring records
 		- Warm water temperature capture from dormitories

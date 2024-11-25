@@ -66,7 +66,14 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({
+        collapseByDefault: false, // Set to true if you want the TOC collapsed initially
+        showByDefault: true,
+      }),
+      Plugin.Folders({
+        folderDefaultState: "collapsed", // or "open"
+        folderClickBehavior: "collapse", // or "link"
+      }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],
