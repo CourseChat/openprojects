@@ -5,3 +5,5 @@ enableToc: true
 
 ## Table of Contents
 {{! folder }}
+
+# Show TOC

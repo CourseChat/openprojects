@@ -7,6 +7,10 @@ tags:
 - This is an list of open projects, open in the sense that their purpose is defined, but their implementation is constantly evolving. All share one common goal: to support collaboration in design and implementation.  
 - Analogous patterns: Architect-Builder-Inspector; Scientist-Engineer-End User; Engineer-Product Manager-Sales Force; Theoretical Physicist-Applied Physicist-Engineering Group-Experimental Physicist;
 - Several of the links are to projects to [annotate lectures with accompanying Jupyter Notebooks](Build%20Jupyter%20notebook%20supplement%20to%20ELP%20Water%20lectures), allowing computations to occur in parallel with the lecture, and then be modified to create specific examples that might correspond more specifically to a student's interests.
+
+[[content/Kibera Town Centre/index.md|index.md]]
+
+
 ## Links to projects
 - [[XIO Real-Time Telemetry]]
 - [[Outline of web sites for Kibera Town Centre]]
