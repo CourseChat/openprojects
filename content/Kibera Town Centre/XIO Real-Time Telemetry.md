@@ -45,6 +45,15 @@ It was complicated to get the XiO token to allow the download from AWS.  Need to
 
 [Getting XiO data for 2 years](https://colab.research.google.com/drive/1XcQYlQx4mYPJjRZNO0gxnHKXhaJhBEgG#scrollTo=S6FGOF65K6Gd)
 
+[Getting a smaller data amount from 2018 due to broken XiO security certificate](https://colab.research.google.com/drive/1a0pWsx7NApO7P4rfiIl0MuBlhlezAcha#scrollTo=0OmzkMqwFsOt)
+
+[A third Colab JN]([https://colab.research.google.com/drive/1a0pWsx7NApO7P4rfiIl0MuBlhlezAcha#scrollTo=-QN715QW3ces](https://colab.research.google.com/drive/1a0pWsx7NApO7P4rfiIl0MuBlhlezAcha#scrollTo=-QN715QW3ces))
+14:04 2024-11-25
+[This Colab actually gets a token from XiO](https://colab.research.google.com/drive/1a0pWsx7NApO7P4rfiIl0MuBlhlezAcha#scrollTo=O204TtGngozK)
+
+
+
+
 
 > [!tip] Use Brick ontology for system descriptions
 > 
