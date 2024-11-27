@@ -20,3 +20,6 @@ npx quartz sync
 Then see the result at: 
 
 https://coursechat.github.io/openprojects/
+
+---
+

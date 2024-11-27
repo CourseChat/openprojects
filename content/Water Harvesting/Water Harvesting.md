@@ -36,6 +36,12 @@ title:  Water Harvesting
 
 ---
 
+
+## Industrial sources of MOF 
+[BASF]([https://www.basf.com/global/en/media/news-releases/2023/10/p-23-327](https://www.basf.com/global/en/media/news-releases/2023/10/p-23-327))
+
+---
+
 ![[David Sedlak-Water Treatment]]
 
 - 
