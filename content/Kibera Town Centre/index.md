@@ -8,4 +8,4 @@ enableToc: true
 
 # Show TOC
 ## Table of Contents
-[[index]]
+[[content/Kibera Town Centre/index]]
